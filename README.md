@@ -9,6 +9,21 @@ This is the result of a group project for Database Design class in which we desi
 4. Added forms, reports, and queries including a Navigation Form.
 5. Finalized by adding test data to ensure functionality.
 
+## Documents
+These are documents I prepared for cyber security classes at college. I have included policies that I wrote for an imaginary company, which really helped teach me what sort of policies I should expect in the workplace and what the content of them should be. I have also included term papers written as finals for my 300, 310, and 450 classes. Here's a catalogue of those items for easy reference:
+
+### Policies
+- Data Retention Policy
+- Identity & Access Management Policy
+- Incident Response Policy / Disaster Recovery Policy / Business Continuity Plan
+- Mobile Device Policy
+- Software Development Policy
+
+### Papers
+- How IoT Technologies Influence Business Strategy and Decision-Making
+- An Analysis of IoT Protocols and the Security Therein
+- An Evaluation of Single Sign-On in a Zero Trust Environment
+
 ## Programming Fundamentals
 The content of this folder should act as proof of my foundational knowledge of the Python programming language. I still consider myself a novice, but I feel confident that I have the tools and knowledge at my disposal to use Python however is needed.
 
